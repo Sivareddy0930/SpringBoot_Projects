@@ -1,0 +1,5 @@
+package com.myapp.Repository;
+
+public interface StudentRepo {
+
+}

@@ -1,0 +1,9 @@
+package com.myapp.controller;
+
+public class StudentControlller {
+
+	public StudentControlller() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
