@@ -38,7 +38,7 @@ public class CustomExceptionHandler {
 //	        error.put("error", ex.getMessage());
 //	        return error;
 //	    }
-	
+	 
 	
 	@ExceptionHandler(StudentAlreadyExistsException.class)
 	@ResponseStatus(code = HttpStatus.ALREADY_REPORTED)

@@ -1,9 +1,0 @@
-package com.myapp.Exception;
-
-public class StudentNotFountExecption {
-
-	public StudentNotFountExecption() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
